@@ -9,7 +9,7 @@ Add-Content _links.php ('<a href="' + $link + '" class="list-group-item list-gro
 Add-Content _links.php '<img src="https://github.com/twbs.png" alt="twbs" width="32" height="32" class="rounded-circle flex-shrink-0">'
 Add-Content _links.php '<div class="d-flex gap-2 w-100 justify-content-between">'
 Add-Content _links.php ('<div><h6 class="mb-0">' + $header + '</h6></div>')
-Add-Content _links.php '<p class="mb-0 opacity-75">Another examples></p>'
+Add-Content _links.php '<p class="mb-0 opacity-75">Another examples</p>'
 Add-Content _links.php '</div>'
 Add-Content _links.php '<small class="opacity-50 text-nowrap">&nbsp;</small>'
 Add-Content _links.php '</a>'
